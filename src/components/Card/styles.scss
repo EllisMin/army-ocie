@@ -1,7 +1,11 @@
 $image-size: 100px;
 
 .card {
-  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 0.5rem;
   padding: 1rem;
   background: #eee;
   border-radius: 5px;
@@ -10,5 +14,9 @@ $image-size: 100px;
   .img-item {
     width: $image-size;
     height: $image-size;
+  }
+
+  .note {
+    font-size: 0.7rem;
   }
 }

@@ -2,11 +2,12 @@ import React from "react";
 
 import "./styles.scss";
 
-const Card = ({ title, imageSrc, missing }) => {
+const Card = ({ title, imageSrc, missing, note }) => {
   return (
     <div className="card">
-      <h3 className={`${missing ? "red-color" : ""}`}>{title}</h3>
+      <h4 className={`${missing ? "red-color" : ""}`}>{title}</h4>
       <img className="img-item" src={imageSrc} alt="img" />
+      {note && <span className="note">{`${note}`}</span>}
     </div>
   );
 };
