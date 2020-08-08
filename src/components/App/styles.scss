@@ -1,0 +1,17 @@
+.red-color {
+  color: #f46666;
+}
+
+.app {
+  .main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+
+@media (max-width: 500px) {
+  html {
+    font-size: 81%;
+  }
+}

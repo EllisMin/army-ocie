@@ -1,0 +1,14 @@
+$image-size: 100px;
+
+.card {
+  margin: 1rem;
+  padding: 1rem;
+  background: #eee;
+  border-radius: 5px;
+  max-width: 250px;
+
+  .img-item {
+    width: $image-size;
+    height: $image-size;
+  }
+}
