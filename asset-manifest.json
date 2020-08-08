@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/army-ocie/static/css/main.92796df2.chunk.css",
+    "main.js": "/army-ocie/static/js/main.3884d187.chunk.js",
+    "main.js.map": "/army-ocie/static/js/main.3884d187.chunk.js.map",
+    "runtime-main.js": "/army-ocie/static/js/runtime-main.bb83502d.js",
+    "runtime-main.js.map": "/army-ocie/static/js/runtime-main.bb83502d.js.map",
+    "static/js/2.c804bbb7.chunk.js": "/army-ocie/static/js/2.c804bbb7.chunk.js",
+    "static/js/2.c804bbb7.chunk.js.map": "/army-ocie/static/js/2.c804bbb7.chunk.js.map",
+    "index.html": "/army-ocie/index.html",
+    "precache-manifest.2c3a87cd112df073d1d6dd46787035e2.js": "/army-ocie/precache-manifest.2c3a87cd112df073d1d6dd46787035e2.js",
+    "service-worker.js": "/army-ocie/service-worker.js",
+    "static/css/main.92796df2.chunk.css.map": "/army-ocie/static/css/main.92796df2.chunk.css.map",
+    "static/js/2.c804bbb7.chunk.js.LICENSE.txt": "/army-ocie/static/js/2.c804bbb7.chunk.js.LICENSE.txt",
+    "static/media/10.jpg": "/army-ocie/static/media/10.99138ea4.jpg",
+    "static/media/11.jpg": "/army-ocie/static/media/11.0d763279.jpg",
+    "static/media/12.jpg": "/army-ocie/static/media/12.ec6c094c.jpg",
+    "static/media/13.jpg": "/army-ocie/static/media/13.24c666d3.jpg",
+    "static/media/14.jpg": "/army-ocie/static/media/14.f9190faa.jpg",
+    "static/media/15.jpg": "/army-ocie/static/media/15.ef09437b.jpg",
+    "static/media/16.jpg": "/army-ocie/static/media/16.f9ef12fc.jpg",
+    "static/media/17.jpg": "/army-ocie/static/media/17.b34143fa.jpg",
+    "static/media/18.jpg": "/army-ocie/static/media/18.ed69145a.jpg",
+    "static/media/19.jpg": "/army-ocie/static/media/19.1ee32228.jpg",
+    "static/media/2.jpg": "/army-ocie/static/media/2.a1845d87.jpg",
+    "static/media/20.jpg": "/army-ocie/static/media/20.7da6a84a.jpg",
+    "static/media/21.jpg": "/army-ocie/static/media/21.8ea25380.jpg",
+    "static/media/3.jpg": "/army-ocie/static/media/3.ae439ebe.jpg",
+    "static/media/4.jpg": "/army-ocie/static/media/4.0a9fefa2.jpg",
+    "static/media/5.jpg": "/army-ocie/static/media/5.b281b1c3.jpg",
+    "static/media/6.jpg": "/army-ocie/static/media/6.f578d43e.jpg",
+    "static/media/7.jpg": "/army-ocie/static/media/7.67161993.jpg",
+    "static/media/8.jpg": "/army-ocie/static/media/8.f5cdff0d.jpg",
+    "static/media/9.jpg": "/army-ocie/static/media/9.98215c09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb83502d.js",
+    "static/js/2.c804bbb7.chunk.js",
+    "static/css/main.92796df2.chunk.css",
+    "static/js/main.3884d187.chunk.js"
+  ]
+}

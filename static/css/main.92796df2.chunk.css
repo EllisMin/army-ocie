@@ -1,0 +1,2 @@
+.card{display:flex;flex-direction:column;align-items:center;margin:.5rem;padding:1rem;background:#555;border-radius:5px;max-width:500px}.card .img-item{width:100%}.card .note{font-size:.7rem}.red-color{color:#f46666}html{background:#333;color:#fafafa}.app{font-family:sans-serif}.app .main{display:flex;flex-wrap:wrap;align-items:center}@media (max-width:500px){html{font-size:81%}}
+/*# sourceMappingURL=main.92796df2.chunk.css.map */
