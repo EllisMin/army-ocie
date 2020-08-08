@@ -1,4 +1,4 @@
-$image-size: 100px;
+$image-size: 110px;
 
 .card {
   display: flex;
@@ -9,11 +9,12 @@ $image-size: 100px;
   padding: 1rem;
   background: #eee;
   border-radius: 5px;
-  max-width: 250px;
+  max-width: 500px;
 
   .img-item {
-    width: $image-size;
-    height: $image-size;
+    width: 100%;
+    // width: $image-size;
+    // height: $image-size;
   }
 
   .note {
